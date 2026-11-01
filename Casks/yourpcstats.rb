@@ -1,6 +1,6 @@
 cask "yourpcstats" do
      version "1.0.0"
-     sha256 "08999a2254e60e68be27e7b4dbb3828b88bcd7f66264c9659e58e494baca4b63"
+     sha256 "c3f55698834c66c3c4d36589923007b388e5b39463416d8afc4285eeb85cb6d0"
 
      url "https://github.com/Aryangp/YourPcStats/releases/tag/v1.0.0/YourPcStats-1.0.0.dmg"
      name "YourPcStats"
